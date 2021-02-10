@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-netflix/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-netflix/static/js/main.54c77a53.chunk.js",
+    "main.js.map": "/react-netflix/static/js/main.54c77a53.chunk.js.map",
+    "runtime-main.js": "/react-netflix/static/js/runtime-main.edb43b14.js",
+    "runtime-main.js.map": "/react-netflix/static/js/runtime-main.edb43b14.js.map",
+    "static/js/2.35fd8390.chunk.js": "/react-netflix/static/js/2.35fd8390.chunk.js",
+    "static/js/2.35fd8390.chunk.js.map": "/react-netflix/static/js/2.35fd8390.chunk.js.map",
+    "static/js/3.e716b9cf.chunk.js": "/react-netflix/static/js/3.e716b9cf.chunk.js",
+    "static/js/3.e716b9cf.chunk.js.map": "/react-netflix/static/js/3.e716b9cf.chunk.js.map",
+    "index.html": "/react-netflix/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-netflix/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.35fd8390.chunk.js.LICENSE.txt": "/react-netflix/static/js/2.35fd8390.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-netflix/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edb43b14.js",
+    "static/js/2.35fd8390.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.54c77a53.chunk.js"
+  ]
+}
